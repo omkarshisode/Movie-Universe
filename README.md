@@ -33,10 +33,10 @@ First, clone this repository to your local machine:
 
 Here are some screenshots of the app:
 
-![Main Screen](app/src/main/res/drawable/img_1.png)
+![Main Screen](app/src/main/res/drawable/img_2.png)
 *Main screen showing trending movies*
 
-![Movie Details](app/src/main/res/drawable/img_2.png)
+![Movie Details](app/src/main/res/drawable/img_1.png)
 *Movie details page with trailer option*
 
 ```bash
