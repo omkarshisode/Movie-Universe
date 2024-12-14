@@ -29,6 +29,16 @@ First, clone this repository to your local machine:
 ## Drive link of APP-
 - https://drive.google.com/file/d/1dfmpyUiQS4TCNpmi0t647ff8XZjiVCGa/view?usp=sharing
 
+  ### Screenshots
+
+Here are some screenshots of the app:
+
+![Main Screen](res/drwables/img_1.jpg)
+*Main screen showing trending movies*
+
+![Movie Details](assets/images/screenshot2.png)
+*Movie details page with trailer option*
+
 ```bash
 [git clone https://github.com/yourusername/your-repo.git](https://github.com/omkarshisode/Movie-Universe.git)
 cd your-repo
